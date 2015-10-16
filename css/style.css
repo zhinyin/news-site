@@ -1,0 +1,222 @@
+body {
+
+}
+
+.header {
+  background-color: #323333;
+  padding: 35px;
+}
+
+h1 {
+  font-family: DIN Condensed, sans-serif, bold;
+  font-size: 35px;
+  word-spacing: 5px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  color: white;
+  padding-bottom: 5px;
+}
+
+.nav {
+  font-family: DIN Condensed, sans-serif, bold;
+  font-size: 20px;
+  word-spacing: 10px;
+  text-align: center;
+  color: #24617E;
+  padding-top: 10px;
+}
+
+.nav a{
+  color: #1C80B5;
+  text-decoration: none;
+}
+
+.container {
+  margin: ;
+}
+
+div .adbox {
+  height: 80px;
+  width: 950.391px;
+  margin: 10px 0 20px 0;
+  background-color: #3EFDFE;
+  font-family: Georgia, serif;
+  text-align: left;
+}
+
+.ad-wrap {
+  border-bottom: 2px solid #CCCCCC;
+}
+
+.main-sidebar {
+  height: 580px;
+  width: 200px;
+  float: left;
+}
+
+.kicker {
+  font-family: "Lato", sans-serif, bold;
+  text-transform: uppercase;
+  font-size: 8px;
+  text-align: left;
+  color: black;
+  padding: 20px 0 5px 0;
+}
+
+.kicker1 {
+  font-family: "Lato", sans-serif, bold;
+  text-transform: uppercase;
+  font-size: 8px;
+  text-align: center;
+  color: black;
+  padding: 20px 0 8px 0;
+}
+
+h2 {
+  font-family: 'Roboto Condensed', sans-serif， bold;
+  font-size: 26px;
+  text-transform: uppercase;
+  text-align: left;
+  color: black;
+  padding: 20px 10px 10px 0;
+}
+
+.byline {
+  font-family: Georgia, serif, bold;
+  font-size: 13px;
+  text-align: left;
+  color: #CCCCCC;
+  padding-bottom: 10px;
+  line-height: 120%;
+}
+
+.summary {
+  font-family: Georgia, serif;
+  font-size: 14px;
+  text-align: left;
+  color: black;
+  padding-bottom: 10px;
+  line-height: 120%;
+  border-bottom: 2px solid #CCCCCC;
+}
+
+ol {
+  font-family: ;
+  font-size: ;
+  text-align: ;
+  color: ;
+}
+
+h3 {
+  padding: 10px 20px 10px 20px;
+  font-family: "Lora", serif;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+.center-story {
+  height: 580px;
+  width: 400px;
+  margin: 0 70px 0 70px;
+  float: left;
+}
+
+img {
+  height: 275px;
+  width: 420px;
+}
+
+.caption {
+  font-family: Corbel, sans-serif, bold;
+  font-size: 15px;
+  text-align: left;
+  color: #CCCCCC;
+  padding: 10px 0 10px 0;
+}
+
+.byline1 {
+  text-align: center;
+  font-family: Georgia, serif, bold;
+  font-size: 13px;
+  color: #CCCCCC;
+  padding-bottom: 10px;
+  line-height: 120%;
+}
+
+.most-viewed-stories {
+  height: 580px;
+  width: 200px;
+  float: right;
+}
+
+li {
+  font-family: Corbel, sans-serif, bold;
+  font-size: 13px;
+  text-align: left;
+  color: black;
+  padding: 10px 0 10px 0;
+  border-bottom: 2px solid #CCCCCC;
+  list-style-type: decimal;
+}
+
+div .adbox1 {
+  height: 80px;
+  width: 460px;
+  margin: 10px 0 20px 0;
+  background-color: #3EFDFE;
+  font-family: Georgia, serif;
+  text-align: left;
+  float: left;
+}
+
+div .adbox2 {
+  height: 80px;
+  width: 460px;
+  margin: 10px 0 20px 30px;
+  background-color: #3EFDFE;
+  font-family: Georgia, serif;
+  text-align: left;
+  float: left;
+}
+
+.ad-wrap1 {
+  height: 110px;
+  width: 960px;
+  border-bottom: 2px solid #CCCCCC;
+}
+
+h4 { 
+  font-family: "Lora", serif;
+  font-size: 15px;
+  text-align: left;
+  color: black;
+  margin-top: 10px;
+  line-height: 150%;
+}
+
+.summary1 {
+  font-family: Georgia, serif;
+  font-size: 14px;
+  text-align: center;
+  color: black;
+  padding-bottom: 10px;
+  line-height: 120%;
+  border-bottom: 2px solid #CCCCCC;
+}
+
+.refer div{
+  margin: 0 30px 0 0;
+
+}
+
+.footer {
+  background-color: #323333;
+  padding: 35px;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: #CCCCCC;
+  padding-bottom: 5px;
+}
